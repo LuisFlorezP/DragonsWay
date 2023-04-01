@@ -1,0 +1,12 @@
+C:\Users\luisf\GitHub\DragonsWay\DragonsWay\DragonsWay.Logic\bin\Debug\net6.0\DragonsWay.Logic.deps.json
+C:\Users\luisf\GitHub\DragonsWay\DragonsWay\DragonsWay.Logic\bin\Debug\net6.0\DragonsWay.Logic.dll
+C:\Users\luisf\GitHub\DragonsWay\DragonsWay\DragonsWay.Logic\bin\Debug\net6.0\DragonsWay.Logic.pdb
+C:\Users\luisf\GitHub\DragonsWay\DragonsWay\DragonsWay.Logic\obj\Debug\net6.0\DragonsWay.Logic.csproj.AssemblyReference.cache
+C:\Users\luisf\GitHub\DragonsWay\DragonsWay\DragonsWay.Logic\obj\Debug\net6.0\DragonsWay.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisf\GitHub\DragonsWay\DragonsWay\DragonsWay.Logic\obj\Debug\net6.0\DragonsWay.Logic.AssemblyInfoInputs.cache
+C:\Users\luisf\GitHub\DragonsWay\DragonsWay\DragonsWay.Logic\obj\Debug\net6.0\DragonsWay.Logic.AssemblyInfo.cs
+C:\Users\luisf\GitHub\DragonsWay\DragonsWay\DragonsWay.Logic\obj\Debug\net6.0\DragonsWay.Logic.csproj.CoreCompileInputs.cache
+C:\Users\luisf\GitHub\DragonsWay\DragonsWay\DragonsWay.Logic\obj\Debug\net6.0\DragonsWay.Logic.dll
+C:\Users\luisf\GitHub\DragonsWay\DragonsWay\DragonsWay.Logic\obj\Debug\net6.0\refint\DragonsWay.Logic.dll
+C:\Users\luisf\GitHub\DragonsWay\DragonsWay\DragonsWay.Logic\obj\Debug\net6.0\DragonsWay.Logic.pdb
+C:\Users\luisf\GitHub\DragonsWay\DragonsWay\DragonsWay.Logic\obj\Debug\net6.0\ref\DragonsWay.Logic.dll
